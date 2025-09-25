@@ -49,7 +49,6 @@
 *		nvcc -O3 -std=c++11 -arch=sm_60 Parallel.cu -o Parallel
 * 
 * Author: Tomas Nader
-* Student ID: w10172066
 */
 
 #include <stdio.h>
@@ -175,3 +174,4 @@ int main(int argc, char* argv[]) {
 	return 0;
 	
 }
+
